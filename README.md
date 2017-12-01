@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-toy app
+This is an simple toy appplication
